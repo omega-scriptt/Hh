@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/prostone55/Script/refs/heads/main/SecoursDeFrance.lua"))()
+
